@@ -1,2 +1,12 @@
 # torrent_client_selector
-Allows to chose between qBitttorrent and Transmission webUI.
+
+I do download a number of (legal) torrent, hence why I set up a dedicated amchine for torrenting, running the Transmission webUI. This machine is on my network, so when I am not at home, I use qBittorent instead on my local machine. But I wanted the experience of opening magnet links and .torretn files to be seamless.
+
+This is the reason I wrote a little application that allows you to chose where you want the downlaod to happen, whenever you open a magnet link or .torrent file.
+
+Make sure to edit the config.json file, to match your setup.
+
+It can be run standalone, but you can make an .exe file out of it with pyInstaller and have it configured with your web browser to automatically open magnet links. Just google how to do it, or if you really struggle e-mail me at huk.adam.g@gmail.com.
+
+I do not own any of the images/icons used, I hope nobody will mind.
+
