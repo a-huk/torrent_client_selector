@@ -1,0 +1,6 @@
+{
+   "transmission_server_ip" : "192.168.1.xx",
+   "qbittorrent_exe_path" : "C:\\Programs\\qBittorrent\\qbittorrent.exe",
+   "username" : "user",
+   "password" : "passwd"
+}
