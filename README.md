@@ -1,6 +1,6 @@
 # torrent_client_selector
 
-I do download a number of (legal) torrent, hence why I set up a dedicated amchine for torrenting, running the Transmission webUI. This machine is on my network, so when I am not at home, I use qBittorent instead on my local machine. But I wanted the experience of opening magnet links and .torretn files to be seamless.
+I do download a number of (legal) torrents, hence why I set up a dedicated machine for torrenting, running the Transmission webUI. This machine is on my network, so when I am not at home, I use qBittorent instead on my local machine. But I wanted the experience of opening magnet links and .torretn files to be seamless.
 
 This is the reason I wrote a little application that allows you to chose where you want the downlaod to happen, whenever you open a magnet link or .torrent file.
 
